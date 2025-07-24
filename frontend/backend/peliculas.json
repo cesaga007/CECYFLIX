@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Titanic",
+    "genero": "Romance",
+    "descripcion": "Una historia de amor entre clases sociales durante el hundimiento del Titanic.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg"
+  },
+  {
+    "titulo": "The Matrix",
+    "genero": "Ciencia Ficción",
+    "descripcion": "Un hacker descubre que la realidad es una simulación y se une a la lucha contra sus controladores.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+  },
+  {
+    "titulo": "Inception",
+    "genero": "Ciencia Ficción",
+    "descripcion": "Un ladrón que roba secretos a través de los sueños recibe una tarea imposible: implantar una idea.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
+  },
+  {
+    "titulo": "Toy Story",
+    "genero": "Animación",
+    "descripcion": "Los juguetes cobran vida cuando los humanos no los ven. Woody y Buzz aprenden a trabajar juntos.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg"
+  },
+  {
+    "titulo": "Jurassic Park",
+    "genero": "Aventura",
+    "descripcion": "Un parque temático con dinosaurios clonados se convierte en una pesadilla cuando los animales escapan.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg"
+  }
+]
